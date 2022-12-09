@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python to interact with text files](https://medium.com/@josiah.alen.brown/using-python-to-interact-with-text-files-f71afb3d1e54?source=rss-d9b4e5dc66fa------2)
 - [AWS pt 4 | Global Infrastructure](https://medium.com/@josiah.alen.brown/aws-pt-4-global-infrastructure-b13e96db739d?source=rss-d9b4e5dc66fa------2)
 - [How to manage Linux file permissions with chmod](https://medium.com/@josiah.alen.brown/how-to-manage-linux-file-permissions-with-chmod-fa26627345ec?source=rss-d9b4e5dc66fa------2)
 - [AWS pt 3 | Cloud Revolution &amp; it’s Benefit](https://medium.com/@josiah.alen.brown/aws-pt-3-cloud-revolution-its-benefit-dc2c20032864?source=rss-d9b4e5dc66fa------2)
 - [AWS pt 2 | Getting Started &amp; Billing](https://medium.com/@josiah.alen.brown/aws-pt-2-getting-started-billing-f01442078a81?source=rss-d9b4e5dc66fa------2)
-- [AWS pt 1 | Certification Overview &amp; Cloud Concepts](https://medium.com/@josiah.alen.brown/aws-pt-1-certification-overview-cloud-concepts-441032bd3699?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
