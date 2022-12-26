@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Go basics: Why you should learn Go in 2023](https://medium.com/@josiah.alen.brown/go-basics-why-you-should-learn-go-in-2023-24c21a91e9b7?source=rss-d9b4e5dc66fa------2)
 - [5 Python tricks to level up your code!](https://medium.com/@josiah.alen.brown/5-python-tricks-to-level-up-your-code-3da0855020f4?source=rss-d9b4e5dc66fa------2)
 - [Why you should use Kivy in your next python app](https://medium.com/@josiah.alen.brown/why-you-should-use-kivy-in-your-next-python-app-21038836d765?source=rss-d9b4e5dc66fa------2)
 - [Using Python to interact with text files](https://medium.com/@josiah.alen.brown/using-python-to-interact-with-text-files-f71afb3d1e54?source=rss-d9b4e5dc66fa------2)
 - [AWS pt 4 | Global Infrastructure](https://medium.com/@josiah.alen.brown/aws-pt-4-global-infrastructure-b13e96db739d?source=rss-d9b4e5dc66fa------2)
-- [How to manage Linux file permissions with chmod](https://medium.com/@josiah.alen.brown/how-to-manage-linux-file-permissions-with-chmod-fa26627345ec?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
