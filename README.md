@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Josiah Brown</h1>
-<h3 align="center">A passionate python and Linux dev</h3>
+<h3 align="center">A passionate developer willing to learn anything and everything</h3>
 
 - 🔭 I’m currently working on [Numistastic](https://github.com/JosiahABrown/Numistastic)
 
-- 🌱 I’m currently learning **SQL, Docker, and basic web development**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [http://josiahabrown.com/](http://josiahabrown.com/)
+- 👨‍💻 My website is [http://josiahabrown.com/](http://josiahabrown.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@josiah.alen.brown](https://medium.com/@josiah.alen.brown)
 
-- 💬 Ask me about **Linux ricing, Blockchain, and Obsidian MD**
+- 💬 Ask me about **Obsidian MD and coin collecting!**
 
 - 📫 How to reach me **josiah.alen.brown@gmail.com**
 
