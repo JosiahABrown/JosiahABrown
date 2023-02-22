@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I’m using ObsidianMD to learn Programming in 2023](https://medium.com/@josiah.alen.brown/how-im-using-obsidianmd-to-learn-programming-in-2023-cf3647da874e?source=rss-d9b4e5dc66fa------2)
 - [From Zero to Unittest: A Step-by-Step guide to Implementing Testing in Python](https://medium.com/@josiah.alen.brown/from-zero-to-unittest-a-step-by-step-guide-to-implementing-testing-in-python-7d50065350ee?source=rss-d9b4e5dc66fa------2)
 - [Go basics: Why you should learn Go in 2023](https://medium.com/@josiah.alen.brown/go-basics-why-you-should-learn-go-in-2023-24c21a91e9b7?source=rss-d9b4e5dc66fa------2)
 - [5 Python tricks to level up your code!](https://medium.com/@josiah.alen.brown/5-python-tricks-to-level-up-your-code-3da0855020f4?source=rss-d9b4e5dc66fa------2)
 - [Why you should use Kivy in your next python app](https://medium.com/@josiah.alen.brown/why-you-should-use-kivy-in-your-next-python-app-21038836d765?source=rss-d9b4e5dc66fa------2)
-- [Using Python to interact with text files](https://medium.com/@josiah.alen.brown/using-python-to-interact-with-text-files-f71afb3d1e54?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
