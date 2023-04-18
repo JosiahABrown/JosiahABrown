@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare tunnels: Securely expose your self-hosted services](https://medium.com/@josiah.alen.brown/cloudflare-tunnels-securely-expose-your-self-hosted-services-ab2b2c0dc9d0?source=rss-d9b4e5dc66fa------2)
 - [How I turned my old computer into a modded Minecraft server](https://medium.com/@josiah.alen.brown/how-i-turned-my-old-computer-into-a-modded-minecraft-server-9e5685f72e64?source=rss-d9b4e5dc66fa------2)
 - [How I’m using ObsidianMD to learn Programming in 2023](https://medium.com/@josiah.alen.brown/how-im-using-obsidianmd-to-learn-programming-in-2023-cf3647da874e?source=rss-d9b4e5dc66fa------2)
 - [From Zero to Unittest: A Step-by-Step guide to Implementing Testing in Python](https://medium.com/@josiah.alen.brown/from-zero-to-unittest-a-step-by-step-guide-to-implementing-testing-in-python-7d50065350ee?source=rss-d9b4e5dc66fa------2)
 - [Go basics: Why you should learn Go in 2023](https://medium.com/@josiah.alen.brown/go-basics-why-you-should-learn-go-in-2023-24c21a91e9b7?source=rss-d9b4e5dc66fa------2)
-- [5 Python tricks to level up your code!](https://medium.com/@josiah.alen.brown/5-python-tricks-to-level-up-your-code-3da0855020f4?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
