@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use your DLSR or Mirrorless Camera as a webcam on NixOS](https://medium.com/@josiah.alen.brown/how-to-use-your-dlsr-or-mirrorless-camera-as-a-webcam-on-nixos-91ec64da1980?source=rss-d9b4e5dc66fa------2)
 - [Installing NixOS with Hyprland!](https://medium.com/@josiah.alen.brown/installing-nixos-with-hyprland-c9b793446921?source=rss-d9b4e5dc66fa------2)
 - [Using Obsidian to manage Code snippets](https://medium.com/@josiah.alen.brown/using-obsidian-to-manage-code-snippets-6c6016f7e16a?source=rss-d9b4e5dc66fa------2)
 - [RSS: Take back control over the Internet](https://medium.com/@josiah.alen.brown/rss-take-back-control-over-the-internet-e2de1913d93a?source=rss-d9b4e5dc66fa------2)
 - [Building a React &amp; TailwindCSS project with Vite and Docker](https://medium.com/@josiah.alen.brown/building-a-react-tailwindcss-project-with-vite-and-docker-664cb82d02f8?source=rss-d9b4e5dc66fa------2)
-- [The Benefits of a Cold Shower](https://medium.com/@josiah.alen.brown/the-benefits-of-a-cold-shower-892fe6b8fe5?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
