@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing your NixOS configuration with Flakes and Home Manager!](https://medium.com/@josiah.alen.brown/managing-your-nixos-configuration-with-flakes-and-home-manager-4ea7725ed9f?source=rss-d9b4e5dc66fa------2)
 - [Beneath the Surface: Revealing System Details with Linux CLI Tools](https://medium.com/@josiah.alen.brown/beneath-the-surface-revealing-system-details-with-linux-cli-tools-eddd28b61b43?source=rss-d9b4e5dc66fa------2)
 - [How to use your DLSR or Mirrorless Camera as a webcam on NixOS](https://medium.com/@josiah.alen.brown/how-to-use-your-dlsr-or-mirrorless-camera-as-a-webcam-on-nixos-91ec64da1980?source=rss-d9b4e5dc66fa------2)
 - [Installing NixOS with Hyprland!](https://blog.stackademic.com/installing-nixos-with-hyprland-c9b793446921?source=rss-d9b4e5dc66fa------2)
 - [Using Obsidian to manage Code snippets](https://medium.com/@josiah.alen.brown/using-obsidian-to-manage-code-snippets-6c6016f7e16a?source=rss-d9b4e5dc66fa------2)
-- [RSS: Take back control over the Internet](https://medium.com/@josiah.alen.brown/rss-take-back-control-over-the-internet-e2de1913d93a?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
