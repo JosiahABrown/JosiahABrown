@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to remotely log into a server using SSH](https://medium.com/@josiah.alen.brown/how-to-remotely-log-into-a-server-using-ssh-4cc22525e149?source=rss-d9b4e5dc66fa------2)
 - [Declaratively manage your Hyprland configuration with Home Manager](https://medium.com/@josiah.alen.brown/declaratively-manage-your-hyprland-configuration-with-home-manager-ccb5ea129949?source=rss-d9b4e5dc66fa------2)
 - [Managing your NixOS configuration with Flakes and Home Manager!](https://medium.com/@josiah.alen.brown/managing-your-nixos-configuration-with-flakes-and-home-manager-4ea7725ed9f?source=rss-d9b4e5dc66fa------2)
 - [Beneath the Surface: Revealing System Details with Linux CLI Tools](https://towardsdev.com/beneath-the-surface-revealing-system-details-with-linux-cli-tools-eddd28b61b43?source=rss-d9b4e5dc66fa------2)
 - [How to use your DLSR or Mirrorless Camera as a webcam on NixOS](https://medium.com/@josiah.alen.brown/how-to-use-your-dlsr-or-mirrorless-camera-as-a-webcam-on-nixos-91ec64da1980?source=rss-d9b4e5dc66fa------2)
-- [Installing NixOS with Hyprland!](https://blog.stackademic.com/installing-nixos-with-hyprland-c9b793446921?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
