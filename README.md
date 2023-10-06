@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating APT updates with Ansible](https://medium.com/@josiah.alen.brown/automating-apt-updates-with-ansible-d5f7f11a1c29?source=rss-d9b4e5dc66fa------2)
 - [Can’t decide what OS to use in your home lab? Why not all of them?](https://medium.com/@josiah.alen.brown/cant-decide-what-os-to-use-in-your-home-lab-why-not-all-of-them-506ccf0a3828?source=rss-d9b4e5dc66fa------2)
 - [How to remotely log into a server using SSH](https://medium.com/@josiah.alen.brown/how-to-remotely-log-into-a-server-using-ssh-4cc22525e149?source=rss-d9b4e5dc66fa------2)
 - [Declaratively manage your Hyprland configuration with Home Manager](https://medium.com/@josiah.alen.brown/declaratively-manage-your-hyprland-configuration-with-home-manager-ccb5ea129949?source=rss-d9b4e5dc66fa------2)
 - [Managing your NixOS configuration with Flakes and Home Manager!](https://medium.com/@josiah.alen.brown/managing-your-nixos-configuration-with-flakes-and-home-manager-4ea7725ed9f?source=rss-d9b4e5dc66fa------2)
-- [Beneath the Surface: Revealing System Details with Linux CLI Tools](https://towardsdev.com/beneath-the-surface-revealing-system-details-with-linux-cli-tools-eddd28b61b43?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
