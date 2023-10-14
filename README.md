@@ -23,7 +23,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Linux/Unix file tree for absolute beginners](https://medium.com/@josiah.alen.brown/navigating-the-linux-unix-file-tree-for-absolute-beginners-c50313d466c5?source=rss-d9b4e5dc66fa------2)
+- [Navigating the Linux/Unix file tree for absolute beginners](https://blog.stackademic.com/navigating-the-linux-unix-file-tree-for-absolute-beginners-c50313d466c5?source=rss-d9b4e5dc66fa------2)
 - [Automating APT updates with Ansible](https://medium.com/@josiah.alen.brown/automating-apt-updates-with-ansible-d5f7f11a1c29?source=rss-d9b4e5dc66fa------2)
 - [Can’t decide what OS to use in your home lab? Why not all of them?](https://medium.com/@josiah.alen.brown/cant-decide-what-os-to-use-in-your-home-lab-why-not-all-of-them-506ccf0a3828?source=rss-d9b4e5dc66fa------2)
 - [How to remotely log into a server using SSH](https://medium.com/@josiah.alen.brown/how-to-remotely-log-into-a-server-using-ssh-4cc22525e149?source=rss-d9b4e5dc66fa------2)
