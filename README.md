@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating the installation of Docker on Debian with Ansible!](https://medium.com/@josiah.alen.brown/automating-the-installation-of-docker-on-debian-with-ansible-9d4cb478fc7a?source=rss-d9b4e5dc66fa------2)
 - [How to create a simple torrent stack with Docker compose](https://medium.com/@josiah.alen.brown/how-to-create-a-simple-torrent-stack-with-docker-compose-f9fcd0d3f672?source=rss-d9b4e5dc66fa------2)
 - [What’s the difference between LXCs and Docker Containers?](https://medium.com/@josiah.alen.brown/whats-the-difference-between-lxcs-and-docker-containers-321a987f7d55?source=rss-d9b4e5dc66fa------2)
 - [Navigating the Linux/Unix file tree for absolute beginners](https://blog.stackademic.com/navigating-the-linux-unix-file-tree-for-absolute-beginners-c50313d466c5?source=rss-d9b4e5dc66fa------2)
 - [Automating APT updates with Ansible](https://medium.com/@josiah.alen.brown/automating-apt-updates-with-ansible-d5f7f11a1c29?source=rss-d9b4e5dc66fa------2)
-- [Can’t decide what OS to use in your home lab? Why not all of them?](https://medium.com/@josiah.alen.brown/cant-decide-what-os-to-use-in-your-home-lab-why-not-all-of-them-506ccf0a3828?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
