@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discovering your Passion&lpar;s&rpar;](https://medium.com/@josiah.alen.brown/discovering-your-passion-s-4672361ecf82?source=rss-d9b4e5dc66fa------2)
 - [Obsidian everywhere: Using Syncthing to sync your second brain](https://medium.com/@josiah.alen.brown/obsidian-everywhere-using-syncthing-to-sync-your-second-brain-44eb865dca8e?source=rss-d9b4e5dc66fa------2)
 - [A quick guide to the OSI Model and its examples](https://medium.com/@josiah.alen.brown/a-quick-guide-to-the-osi-model-and-its-examples-0864485269ec?source=rss-d9b4e5dc66fa------2)
 - [Automating the installation of Docker on Debian with Ansible!](https://medium.com/@josiah.alen.brown/automating-the-installation-of-docker-on-debian-with-ansible-9d4cb478fc7a?source=rss-d9b4e5dc66fa------2)
 - [How to create a simple torrent stack with Docker compose](https://medium.com/@josiah.alen.brown/how-to-create-a-simple-torrent-stack-with-docker-compose-f9fcd0d3f672?source=rss-d9b4e5dc66fa------2)
-- [What’s the difference between LXCs and Docker Containers?](https://medium.com/@josiah.alen.brown/whats-the-difference-between-lxcs-and-docker-containers-321a987f7d55?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
