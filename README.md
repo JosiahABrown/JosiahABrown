@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three environments for habit building](https://medium.com/@josiah.alen.brown/three-environments-for-habit-building-7def3f1137ad?source=rss-d9b4e5dc66fa------2)
 - [Forget setting Goals. Make some Systems](https://medium.com/@josiah.alen.brown/forget-setting-goals-make-some-systems-7c23c6b4a333?source=rss-d9b4e5dc66fa------2)
 - [My belief in the future of photography in the age of AI](https://medium.com/@josiah.alen.brown/my-belief-in-the-future-of-photography-in-the-age-of-ai-c8989cb187f7?source=rss-d9b4e5dc66fa------2)
 - [Some of my favorite Obsidian Plugins](https://medium.com/@josiah.alen.brown/some-of-my-favorite-obsidian-plugins-0f2f99c0b069?source=rss-d9b4e5dc66fa------2)
 - [Running a local LLM for DND campaign creation](https://medium.com/@josiah.alen.brown/running-a-local-llm-for-dnd-campaign-creation-fd653bceeab9?source=rss-d9b4e5dc66fa------2)
-- [Discovering your Passion&lpar;s&rpar;](https://medium.com/@josiah.alen.brown/discovering-your-passion-s-4672361ecf82?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
