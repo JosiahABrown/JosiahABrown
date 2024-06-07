@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Productive Procrastination: A Silent Killer](https://medium.com/@josiah.alen.brown/productive-procrastination-a-silent-killer-9b0b64dfcb79?source=rss-d9b4e5dc66fa------2)
 - [Stop wasting your time with Obsidian](https://medium.com/@josiah.alen.brown/stop-wasting-your-time-with-obsidian-28b92f99ab17?source=rss-d9b4e5dc66fa------2)
 - [Three environments for habit building](https://medium.com/@josiah.alen.brown/three-environments-for-habit-building-7def3f1137ad?source=rss-d9b4e5dc66fa------2)
 - [Forget setting Goals. Make some Systems](https://medium.com/@josiah.alen.brown/forget-setting-goals-make-some-systems-7c23c6b4a333?source=rss-d9b4e5dc66fa------2)
 - [My belief in the future of photography in the age of AI](https://medium.com/@josiah.alen.brown/my-belief-in-the-future-of-photography-in-the-age-of-ai-c8989cb187f7?source=rss-d9b4e5dc66fa------2)
-- [Some of my favorite Obsidian Plugins](https://medium.com/@josiah.alen.brown/some-of-my-favorite-obsidian-plugins-0f2f99c0b069?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
