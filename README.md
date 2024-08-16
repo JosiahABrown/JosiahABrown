@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube sucks — Here’s how to fix it](https://medium.com/@josiah.alen.brown/youtube-sucks-heres-how-to-fix-it-76aa2d8f45ea?source=rss-d9b4e5dc66fa------2)
 - [How do I keep track of people in Obsidian](https://medium.com/@josiah.alen.brown/how-do-i-keep-track-of-people-in-obsidian-5a9d72230184?source=rss-d9b4e5dc66fa------2)
 - [How to KNOW a Language](https://medium.com/@josiah.alen.brown/how-to-know-a-language-a33526441029?source=rss-d9b4e5dc66fa------2)
 - [My &lpar;uncompleted&rpar; journey of leaving Social Media](https://medium.com/@josiah.alen.brown/my-uncompleted-journey-of-leaving-social-media-f2dadc64e566?source=rss-d9b4e5dc66fa------2)
 - [Productive Procrastination: A Silent Killer](https://medium.com/@josiah.alen.brown/productive-procrastination-a-silent-killer-9b0b64dfcb79?source=rss-d9b4e5dc66fa------2)
-- [Stop wasting your time with Obsidian](https://medium.com/@josiah.alen.brown/stop-wasting-your-time-with-obsidian-28b92f99ab17?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
