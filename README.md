@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [These common study methods suck according to science](https://medium.com/@josiah.alen.brown/these-common-study-methods-suck-according-to-science-a487dd4d1f10?source=rss-d9b4e5dc66fa------2)
 - [Book Tracking in Obsidian](https://medium.com/@josiah.alen.brown/book-tracking-in-obsidian-48767d25aeb1?source=rss-d9b4e5dc66fa------2)
 - [A Short Introduction to Chunking](https://medium.com/@josiah.alen.brown/a-short-introduction-to-chunking-e90521f7e036?source=rss-d9b4e5dc66fa------2)
 - [Stop Scheduling time to focus. Schedule the opposite](https://medium.com/@josiah.alen.brown/stop-scheduling-time-to-focus-schedule-the-opposite-fa600a7bc602?source=rss-d9b4e5dc66fa------2)
 - [How to take Good Book Notes](https://medium.com/@josiah.alen.brown/how-to-take-good-book-notes-aa6c94a04600?source=rss-d9b4e5dc66fa------2)
-- [YouTube sucks — Here’s how to fix it](https://medium.com/@josiah.alen.brown/youtube-sucks-heres-how-to-fix-it-76aa2d8f45ea?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
