@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Staying Productive while on Vacation](https://medium.com/@josiah.alen.brown/staying-productive-while-on-vacation-9f9a4657ac38?source=rss-d9b4e5dc66fa------2)
 - [The Trap of PKMs](https://medium.com/@josiah.alen.brown/the-trap-of-pkms-7b86d7489894?source=rss-d9b4e5dc66fa------2)
 - [My new favorite productivity app: ByDesign](https://medium.com/@josiah.alen.brown/my-new-favorite-productivity-app-bydesign-ba499f7da871?source=rss-d9b4e5dc66fa------2)
 - [These common study methods suck according to science](https://medium.com/@josiah.alen.brown/these-common-study-methods-suck-according-to-science-a487dd4d1f10?source=rss-d9b4e5dc66fa------2)
 - [Book Tracking in Obsidian](https://medium.com/@josiah.alen.brown/book-tracking-in-obsidian-48767d25aeb1?source=rss-d9b4e5dc66fa------2)
-- [A Short Introduction to Chunking](https://medium.com/@josiah.alen.brown/a-short-introduction-to-chunking-e90521f7e036?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
