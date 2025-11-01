@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why YOU need to start writing](https://medium.com/@josiah.alen.brown/why-you-need-to-start-writing-f6b5646a0769?source=rss-d9b4e5dc66fa------2)
 - [The Formula for Creativity](https://medium.com/@josiah.alen.brown/the-formula-for-creativity-255051697c21?source=rss-d9b4e5dc66fa------2)
 - [You don’t need more motivation, you need less input](https://medium.com/@josiah.alen.brown/you-dont-need-more-motivation-you-need-less-input-2770a3c6c01b?source=rss-d9b4e5dc66fa------2)
 - [Consumption and the Art of “Brain Rot”](https://medium.com/@josiah.alen.brown/consumption-and-the-art-of-brain-rot-7e1a168a5b49?source=rss-d9b4e5dc66fa------2)
 - [Staying Productive while on Vacation](https://medium.com/@josiah.alen.brown/staying-productive-while-on-vacation-9f9a4657ac38?source=rss-d9b4e5dc66fa------2)
-- [The Trap of PKMs](https://medium.com/@josiah.alen.brown/the-trap-of-pkms-7b86d7489894?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
