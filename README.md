@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro to the Indie Web](https://medium.com/@josiah.alen.brown/intro-to-the-indie-web-581dbef591c2?source=rss-d9b4e5dc66fa------2)
 - [The quest to decentralize the smart phone](https://medium.com/@josiah.alen.brown/the-quest-to-decentralize-the-smart-phone-6d9872036da3?source=rss-d9b4e5dc66fa------2)
 - [The 4 Types of Hobbies Everyone Needs](https://medium.com/@josiah.alen.brown/the-4-types-of-hobbies-everyone-needs-ebd742bc1183?source=rss-d9b4e5dc66fa------2)
 - [The Cult of Self-Improvement](https://medium.com/@josiah.alen.brown/the-cult-of-self-improvement-c4d4a8b59e85?source=rss-d9b4e5dc66fa------2)
 - [Why I don’t track tasks in Obsidian](https://medium.com/@josiah.alen.brown/why-i-dont-track-tasks-in-obsidian-e1b89b48bd42?source=rss-d9b4e5dc66fa------2)
-- [Keeping a Journal in Obsidian](https://medium.com/@josiah.alen.brown/keeping-a-journal-in-obsidian-7c7346d57f09?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
