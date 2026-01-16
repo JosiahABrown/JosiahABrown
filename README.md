@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Tools to Help Any Self-Learner](https://medium.com/@josiah.alen.brown/5-tools-to-help-any-self-learner-bae2c435bd48?source=rss-d9b4e5dc66fa------2)
 - [Big Tech Wants Your Sleep](https://medium.com/@josiah.alen.brown/big-tech-wants-your-sleep-bb5c5c97fb39?source=rss-d9b4e5dc66fa------2)
 - [Creating a Custom Syllabus for Any Concept](https://medium.com/@josiah.alen.brown/creating-a-custom-syllabus-for-any-concept-1d67d7567abe?source=rss-d9b4e5dc66fa------2)
 - [Provisioning External Storage for Proxmox](https://medium.com/@josiah.alen.brown/provisioning-external-storage-for-proxmox-7c21fd0e6626?source=rss-d9b4e5dc66fa------2)
 - [Intro to the Indie Web](https://medium.com/@josiah.alen.brown/intro-to-the-indie-web-581dbef591c2?source=rss-d9b4e5dc66fa------2)
-- [The quest to decentralize the smart phone](https://medium.com/@josiah.alen.brown/the-quest-to-decentralize-the-smart-phone-6d9872036da3?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
