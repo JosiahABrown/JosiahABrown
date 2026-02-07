@@ -23,11 +23,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes Should Outlive Apps](https://medium.com/@josiah.alen.brown/notes-should-outlive-apps-1c978f26f2c8?source=rss-d9b4e5dc66fa------2)
 - [Build a Better Memory with Chunking](https://medium.com/@josiah.alen.brown/build-a-better-memory-with-chunking-018322b8c3e4?source=rss-d9b4e5dc66fa------2)
 - [The Simple Joy of Worldbuilding](https://medium.com/@josiah.alen.brown/the-simple-joy-of-worldbuilding-1d7a38862a50?source=rss-d9b4e5dc66fa------2)
 - [5 Tools to Help Any Self-Learner](https://medium.com/@josiah.alen.brown/5-tools-to-help-any-self-learner-bae2c435bd48?source=rss-d9b4e5dc66fa------2)
 - [Big Tech Wants Your Sleep](https://medium.com/@josiah.alen.brown/big-tech-wants-your-sleep-bb5c5c97fb39?source=rss-d9b4e5dc66fa------2)
-- [Creating a Custom Syllabus for Any Concept](https://medium.com/@josiah.alen.brown/creating-a-custom-syllabus-for-any-concept-1d67d7567abe?source=rss-d9b4e5dc66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
